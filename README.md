@@ -7,6 +7,12 @@ The goal is to uncover business insights and solve key operational
 challenges to help improve profitability, customer experience, and 
 operational efficiency.
 
+## 🛠️ Tools Used
+
+- SQL (PostgreSQL)
+- Sales transactional dataset (CSV/Database)
+- Canva for PowerPoint preparation
+  
 ## 📊 Project Objectives
 
 - Clean raw sales data for analysis
@@ -67,10 +73,4 @@ Steps performed:
 | **9. Monthly Sales Trend?** | Seasonal peaks observed | Better forecasting & planning |
 | **10. Gender-Based Product Preference?** | Gender trends by category | Personalized advertising |
 
-
-🛠️ Tools Used
-- SQL (PostgreSQL)
-- Sales transactional dataset (CSV/Database)
-- Canva for PowerPoint preparation
-
-Dataset download link:- [https://www.kaggle.com/datasets/ankit...](https://www.kaggle.com/datasets/ankitrajmishra/sales-store)
+Dataset Source download link:- [https://www.kaggle.com/datasets/ankit...](https://www.kaggle.com/datasets/ankitrajmishra/sales-store)
