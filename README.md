@@ -11,7 +11,7 @@ operational efficiency.
 
 - SQL (PostgreSQL)
 - Sales transactional dataset (CSV/Database)
-- Canva for PowerPoint preparation
+- Canva for Preparation Report
   
 ## 📊 Project Objectives
 
